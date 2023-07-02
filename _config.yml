@@ -23,7 +23,7 @@ user:
   name: Miroku
   pic: /assets/img/myPic.jpg
   picAlt: "Miroku"
-  job: Student
+  job: Java|Python|Vue
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
