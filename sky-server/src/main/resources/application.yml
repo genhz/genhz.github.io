@@ -1,0 +1,32 @@
+server:
+  port: 8080
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  main:
+    allow-circular-references: true
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/sky_take_out?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+      username: root
+      password: root
+
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+sky:
+  jwt:
+    admin-secret: itcast   # 设置jwt签名加密时使用的秘钥
+    admin-ttl: 86400000    # 设置jwt过期时间(1天)
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com    # 仓库位置
+    access-key-id: LTAI5tA7WxixMzZt8vStdPBr
+    access-key-secret: 0DTCfmmRkwyw0Un0sXbcwx0PGuZRsl
+    bucket-name: hlg-gxm
