@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhongzheng Yuan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/头像.jpg"
   bio              : "Shandong University"
   location         : "Shandong, China"
   employer         :
@@ -48,7 +48,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :  "https://steamcommunity.com/profiles/76561199073455135/"
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :

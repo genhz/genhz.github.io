@@ -18,7 +18,7 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/papers/FedSA-GCL.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/papers/FedSA-GCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](https://www.sciencedirect.com/science/article/abs/pii/S0950705126010993)
@@ -57,4 +57,4 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 - *2020.09 - 2024.06*, B.E. in Software Engineering, **Harbin University of Science and Technology**.
 
 # 💻 Internships
-<!-- - *20xx.05 - 20xx.02*, [Company](https://github.com/), China. -->
+- *2024.11 - 2025.05*, [Grikin Advanced Materiais CO.,LTD](http://www.grikin.com/), China.
