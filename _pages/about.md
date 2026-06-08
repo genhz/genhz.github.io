@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences with total <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences (see my <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>Google Scholar</a>).
 
 # 🔥 News
 - *2026.6*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is accepted by **Knowledge-Based Systems**.
@@ -32,7 +25,7 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 
 **Zhongzheng Yuan**, Lianshuai Guo, Xunkai Li, Yinlin Zhu, Wenyu Wang\*, Meixia Qu\*
 
-[**PDF**](https://arxiv.org/abs/2507.18219) <strong><span class='show_paper_citations' data='33Ux928AAAAJ'></span></strong>
+[**PDF**](https://arxiv.org/abs/2507.18219)
 - Proposes the first federated graph learning framework under asynchronous settings with client clustering and personalized aggregation.
 - Achieves +2.92% accuracy (Louvain), +3.4% accuracy (Metis) improvement with 484.5 fewer client trips.
 </div>
