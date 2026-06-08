@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongzheng Yuan's Homepage"
-description              : "M.S. Student at Shandong University — Federated Graph Learning,  Generalized Category Discovery, Medical Image Analysis"
+description              : "M.S. Student at Shandong University"
 repository               : "genhz/genhz-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongzheng Yuan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shandong University, China"
+  bio              : "Shandong University"
   location         : "Shandong, China"
   employer         :
   pubmed           : 

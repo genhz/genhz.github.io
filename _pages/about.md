@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences with total <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>google scholar citations <strong><span id='total_cit'>15+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences with total <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is accepted by **Knowledge-Based Systems** (IF=7.2).
-- *2025.03*: &nbsp;🎉🎉 Our paper "CC-TransXNet" is published in **Medical & Biological Engineering & Computing**.
+- *2026.6*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is accepted by **Knowledge-Based Systems**.
+- *2024.11*: &nbsp;🎉🎉 Our paper "CC-TransXNet" is published in **Medical & Biological Engineering & Computing**.
 
 # 📝 Publications 
 
