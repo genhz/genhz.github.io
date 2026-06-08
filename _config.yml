@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zhongzheng Yuan's Homepage"
-description              : "CS Master's Student at Shandong University"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "M.S. Student at Shandong University — Federated Graph Learning,  Generalized Category Discovery, Medical Image Analysis"
+repository               : "genhz/genhz-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

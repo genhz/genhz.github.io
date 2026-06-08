@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences with total <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>google scholar citations <strong><span id='total_cit'>15+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is accepted by **Knowledge-Based Systems** (IF=7.2).
+- *2025.03*: &nbsp;🎉🎉 Our paper "CC-TransXNet" is published in **Medical & Biological Engineering & Computing**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](https://www.sciencedirect.com/science/article/abs/pii/S0950705126010993)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhongzheng Yuan**, Lianshuai Guo, Xunkai Li, Yinlin Zhu, Wenyu Wang\*, Meixia Qu\*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](https://arxiv.org/abs/2507.18219) <strong><span class='show_paper_citations' data='33Ux928AAAAJ'></span></strong>
+- Proposes the first federated graph learning framework under asynchronous settings with client clustering and personalized aggregation.
+- Achieves +2.92% accuracy (Louvain), +3.4% accuracy (Metis) improvement with 484.5 fewer client trips.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[Generalized Category Discovery in Federated Graph Learning](https://arxiv.org/abs/2605.08178)**, **Z Yuan**, L Guo, X Li, W Wang\*, M Qu\*, *arXiv preprint*, 2026
+- **[DFed-SST: Building Semantic-and Structure-aware Topologies for Decentralized Federated Graph Learning](https://arxiv.org/abs/2508.11530)**, L Guo, **Z Yuan**, X Li, Y Zhu, M Qu\*, W Wang\*, *arXiv preprint*, 2025
+- **[Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810313)**, L Guo, **Z Yuan**, X Li, M Qu\*, W Wang\*, *SSRN*, 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CC-TransXNet: A Hybrid CNN-Transformer Network for Automatic Segmentation of Optic Cup and Optic Disk from Fundus Images](https://link.springer.com/article/10.1007/s11517-024-03188-6)
+
+**Zhongzheng Yuan**, Jiaxu Wang, Yonghui Xu, Meng Xu
+
+[**PDF**](https://link.springer.com/article/10.1007/s11517-024-03188-6)
+- A hybrid CNN-Transformer architecture for joint optic cup and optic disk segmentation.
+- Published in **Medical & Biological Engineering & Computing**, 63(4), 1027-1044, 2025.
+</div>
+</div>
+
+- **[A Lightweight Dual-Path Cascaded Network for Vessel Segmentation in Fundus Image](https://www.aimspress.com/article/doi/10.3934/mbe.2023474)**, Y Sun, X Li, Y Liu, **Z Yuan**, J Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(6), 10790-10814, 2023
+- **[Mic-Net: Multi-Scale Integrated Context Network for Automatic Retinal Vessel Segmentation in Fundus Image](https://www.aimspress.com/article/doi/10.3934/mbe.2023299)**, J Wang, L Zhou, **Z Yuan**, H Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(4), 6912-6931, 2023
+- **[Towards Eye-Tracking-Based Technology on Sight Interpretation Performance Improvement](https://www.worldscientific.com/doi/10.1142/S0219519422400589)**, X Wang, L Guo, **Z Yuan**, S Tamura, *Journal of Mechanics in Medicine and Biology*, 22(09), 2240058, 2022
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2025.12* FedSA-GCL accepted by Knowledge-Based Systems (JCR Q1, IF=7.2).  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - now*, M.S. in Computer Technology, **Shandong University**.
+- *2020.09 - 2024.06*, B.E. in Software Engineering, **Harbin University of Science and Technology**.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *20xx.05 - 20xx.02*, [Company](https://github.com/), China. -->
