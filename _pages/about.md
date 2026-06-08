@@ -13,7 +13,7 @@ redirect_from:
 I am a Master's student at the School of Mechanical, Electrical and Information Engineering, [Shandong University](https://www.sdu.edu.cn/). My research interests lie in **Federated Graph Learning**, **Generalized Category Discovery**, and **Medical Image Analysis**. I have published several papers at international journals and conferences (see my <a href='https://scholar.google.com/citations?user=33Ux928AAAAJ'>Google Scholar</a>).
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is accepted by **Knowledge-Based Systems**.
+- *2026.06*: &nbsp;🎉🎉 Our paper "FedSA-GCL" is published by **Knowledge-Based Systems**.
 - *2024.11*: &nbsp;🎉🎉 Our paper "CC-TransXNet" is published in **Medical & Biological Engineering & Computing**.
 
 # 📝 Publications 
