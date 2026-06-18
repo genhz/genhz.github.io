@@ -22,11 +22,11 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2026</div><img src='images/papers/GCD-FGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generalized Category Discovery in Federated Graph Learning](https://arxiv.org/abs/2605.08178)
+[Generalized Category Discovery in Federated Graph Learning](https://doi.org/10.1016/j.eswa.2026.133231)
 
 **Zhongzheng Yuan**, Lianshuai Guo, Xunkai Li, Wenyu Wang\*, Meixia Qu\*
 
-[**PDF**](https://arxiv.org/abs/2605.08178)
+[**PDF**](https://doi.org/10.1016/j.eswa.2026.133231)
 - Pioneer Generalized Category Discovery in Federated Graph Learning
 </div>
 </div>
