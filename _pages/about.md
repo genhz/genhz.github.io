@@ -71,4 +71,5 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 - *2020.09 - 2024.06*, B.E. in Software Engineering, **Harbin University of Science and Technology**.
 
 # 💻 Internships
-- *2024.11 - 2025.05*, [Grikin Advanced Materiais CO.,LTD](http://www.grikin.com/), China.
+- *2026.7 - now*, [Grirem Advanced Materiais Co.,Ltd](http://www.grirem.com/), China.
+- *2024.11 - 2025.05*, [Grikin Advanced Materiais Co.,Ltd](http://www.grikin.com/), China.
