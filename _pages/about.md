@@ -68,7 +68,6 @@ Lianshuai Guo, **Zhongzheng Yuan**, Xunkai Li, Meixia Qu\*, Wenyu Wang\*
 </div>
 </div>
 
-- **[](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810313)**, L Guo, **Z Yuan**, X Li, M Qu\*, W Wang\*, *SSRN*, 2026
 - **[DFed-SST: Building Semantic-and Structure-aware Topologies for Decentralized Federated Graph Learning](https://arxiv.org/abs/2508.11530)**, L Guo, **Z Yuan**, X Li, Y Zhu, M Qu\*, W Wang\*, *arXiv preprint*, 2025
 - **[A Lightweight Dual-Path Cascaded Network for Vessel Segmentation in Fundus Image](https://doi.org/10.3934/mbe.2023479)**, Y Sun, X Li, Y Liu, **Z Yuan**, J Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(6), 10790-10814, 2023
 - **[Mic-Net: Multi-Scale Integrated Context Network for Automatic Retinal Vessel Segmentation in Fundus Image](https://doi.org/10.3934/mbe.2023298)**, J Wang, L Zhou, **Z Yuan**, H Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(4), 6912-6931, 2023
