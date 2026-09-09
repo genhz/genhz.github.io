@@ -56,7 +56,7 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/papers/FedEPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/papers/FedEPD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](https://doi.org/10.1016/j.knosys.2026.116954)
