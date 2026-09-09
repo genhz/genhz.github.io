@@ -34,11 +34,11 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/papers/FedSA-GCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](https://www.sciencedirect.com/science/article/abs/pii/S0950705126010993)
+[FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](https://doi.org/10.1016/j.knosys.2026.116373)
 
 **Zhongzheng Yuan**, Lianshuai Guo, Xunkai Li, Yinlin Zhu, Wenyu Wang\*, Meixia Qu\*
 
-[**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0950705126010993)
+[**PDF**](https://doi.org/10.1016/j.knosys.2026.116373)
 - Pioneer semi-asynchronous federated graph learning for non-IID
 </div>
 </div>
@@ -46,20 +46,20 @@ I am a Master's student at the School of Mechanical, Electrical and Information 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC 2024</div><img src='images/papers/CC-TransXnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CC-TransXNet: A Hybrid CNN-Transformer Network for Automatic Segmentation of Optic Cup and Optic Disk from Fundus Images](https://link.springer.com/article/10.1007/s11517-024-03188-6)
+[CC-TransXNet: A Hybrid CNN-Transformer Network for Automatic Segmentation of Optic Cup and Optic Disk from Fundus Images](https://doi.org/10.1007/s11517-024-03244-3)
 
-**Zhongzheng Yuan**, Jiaxu Wang, Yonghui Xu, Meng Xu
+**Zhongzheng Yuan**, Jiaxu Wang, Yukun Xu, Meng Xu
 
-[**PDF**](https://link.springer.com/article/10.1007/s11517-024-03188-6)
+[**PDF**](https://doi.org/10.1007/s11517-024-03244-3)
 - A hybrid CNN-Transformer architecture for joint optic cup and optic disk segmentation.
 </div>
 </div>
 
 - **[Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810313)**, L Guo, **Z Yuan**, X Li, M Qu\*, W Wang\*, *SSRN*, 2026
 - **[DFed-SST: Building Semantic-and Structure-aware Topologies for Decentralized Federated Graph Learning](https://arxiv.org/abs/2508.11530)**, L Guo, **Z Yuan**, X Li, Y Zhu, M Qu\*, W Wang\*, *arXiv preprint*, 2025
-- **[A Lightweight Dual-Path Cascaded Network for Vessel Segmentation in Fundus Image](https://www.aimspress.com/article/doi/10.3934/mbe.2023474)**, Y Sun, X Li, Y Liu, **Z Yuan**, J Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(6), 10790-10814, 2023
-- **[Mic-Net: Multi-Scale Integrated Context Network for Automatic Retinal Vessel Segmentation in Fundus Image](https://www.aimspress.com/article/doi/10.3934/mbe.2023299)**, J Wang, L Zhou, **Z Yuan**, H Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(4), 6912-6931, 2023
-- **[Towards Eye-Tracking-Based Technology on Sight Interpretation Performance Improvement](https://www.worldscientific.com/doi/10.1142/S0219519422400589)**, X Wang, L Guo, **Z Yuan**, S Tamura, *Journal of Mechanics in Medicine and Biology*, 22(09), 2240058, 2022
+- **[A Lightweight Dual-Path Cascaded Network for Vessel Segmentation in Fundus Image](https://doi.org/10.3934/mbe.2023479)**, Y Sun, X Li, Y Liu, **Z Yuan**, J Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(6), 10790-10814, 2023
+- **[Mic-Net: Multi-Scale Integrated Context Network for Automatic Retinal Vessel Segmentation in Fundus Image](https://doi.org/10.3934/mbe.2023298)**, J Wang, L Zhou, **Z Yuan**, H Wang, C Shi, *Mathematical Biosciences and Engineering*, 20(4), 6912-6931, 2023
+- **[Towards Eye-Tracking-Based Technology on Sight Interpretation Performance Improvement](https://doi.org/10.1142/S0219519422400589)**, X Wang, L Guo, **Z Yuan**, S Tamura, *Journal of Mechanics in Medicine and Biology*, 22(09), 2240058, 2022
 
 # 🎖 Honors and Awards
 - *2024.6* Outstanding Student of Heilongjiang Province.
