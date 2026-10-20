@@ -74,8 +74,9 @@ Lianshuai Guo, **Zhongzheng Yuan**, Xunkai Li, Meixia Qu\*, Wenyu Wang\*
 - **[Towards Eye-Tracking-Based Technology on Sight Interpretation Performance Improvement](https://doi.org/10.1142/S0219519422400589)**, X Wang, L Guo, **Z Yuan**, S Tamura, *Journal of Mechanics in Medicine and Biology*, 22(09), 2240058, 2022
 
 # 🎖 Honors and Awards
-- *2024.6* Outstanding Student of Heilongjiang Province.
+- *2026.10* China National Scholarship.
 - *2024.6* Outstanding Graduate of Heilongjiang Province.
+- *2024.6* Outstanding Student of Heilongjiang Province.
 - *2022.4* National Inspirational Scholarship.
 
 # 📖 Educations
